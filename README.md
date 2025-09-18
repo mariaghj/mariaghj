@@ -42,7 +42,7 @@ Currently, I’m gaining hands-on experience and expanding my expertise in:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/maria-hiekkam%C3%A4ki/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maria-hiekkam%C3%A4ki/)
 
 ---
 
